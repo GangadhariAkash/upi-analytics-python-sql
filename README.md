@@ -75,9 +75,13 @@ The project analyzes digital payment transactions to identify:
 upi-analytics-python-sql/
 │
 ├── README.md
-├── upi_analytics.sql
 ├── upi_analysis.ipynb
-├── upi_transactions_cleaned.csv
+├── upi_transactions.csv
+├── sql_queries.sql
+├── screenshots/
+│   ├── transactions_table.png
+│   ├── fraud_transactions.png
+│   └── python_business_insights.png
 ```
 
 ---
